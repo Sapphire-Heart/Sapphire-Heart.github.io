@@ -132,13 +132,13 @@ body,html{
 .port-showcase .about-me .heading{
 	margin-bottom: 50px;
 }
-.port-showcase h1 ,.port-showcase .heading, .port-showcase .btn{
+.port-showcase p ,.port-showcase .heading, .port-showcase .btn{
 	color: #F8F8F8;
 }
-.port-showcase h1{
+.port-showcase p{
 	font-family: 'Lato', sans-serif;	
 	font-weight: 100;
-	font-size: 35px;
+	letter-spacing:1px;
 }
 .port-showcase .social-btn.btn-circle{
 	height: 50px;
