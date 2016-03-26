@@ -336,6 +336,12 @@ body,html{
 .port-education .my-edu h4 .fa{
 	margin-right: 10px; 
 }
+.port-education button .jianli{
+	color:#333;
+}
+.port-education button:hover .jianli{
+	color:#fff;
+}
 .float {
   display: inline-block;
   -webkit-transition: transform 0.3s;
